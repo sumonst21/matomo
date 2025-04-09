@@ -26,6 +26,6 @@
   },
   "version": "0.1.0",
   "devDependencies": {
-    "grunt-karma": "^2.0.0"
+    "grunt-karma": "^4.0.2"
   }
 }
